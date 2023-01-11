@@ -12,4 +12,8 @@ haha
 sddfdfsdf
 他他啊他
 你你你
+<<<<<<< HEAD
 nnn
+=======
+abcd
+>>>>>>> origin/m
